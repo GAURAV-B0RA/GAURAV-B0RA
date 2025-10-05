@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gaurav Bora</h1>
  <p align="center"><br/>
-   <a href="http://www.linkedin.com/in/gaurav-bora-71ba87246">
+   <a target ="_blank" href="http://www.linkedin.com/in/gaurav-bora-71ba87246">
     <img src="https://img.shields.io/badge/linkedin-Gaurav Bora-blue">
   </a>
   
-  <a href="https://www.instagram.com/gaurav._.bora_?igsh=MW0yZnZwZzBod2V6OQ==">
+  <a target ="_blank" href="https://www.instagram.com/gaurav._.bora_?igsh=MW0yZnZwZzBod2V6OQ==">
     <img src="https://img.shields.io/badge/instagram-gaurav._.bora_-red">
   </a>
 </p>
@@ -70,7 +70,7 @@
 <p align="center">
 <a href=https://twitter.com/@Gauravb04 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="gauravbora" height="40" width="40" /></a>
 <a href=http://www.linkedin.com/in/gaurav-bora-71ba87246 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Gauravbora" height="40" width="40" /></a>
-<a href=https://instagram.com/gaurav._.bora_target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="Gauravbora" height="40" width="40" /></a>
+<a href=https://instagram.com/gaurav._.bora_ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="Gauravbora" height="40" width="40" /></a>
 </p>
 
 ⭐️ From [Gaurav Bora](https://github.com/GAURAV-B0RA) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
