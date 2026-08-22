@@ -7,13 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=purple&center=true&vCenter=true&width=550&lines=%3E+who_am_i;GAURAV_BORA.exe+--role%3Ddeveloper;%3E+skills;MongoDB+%7C+Express+%7C+React+%7C+Node;%3E+status;open_for_job+%3D+true_" alt="Typing SVG" />
 
 </div>
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GAURAV-B0RA/GAURAV-B0RA/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GAURAV-B0RA/GAURAV-B0RA/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GAURAV-B0RA/GAURAV-B0RA/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<br/>
 
 ### 🚀 About Me
 
@@ -82,6 +76,14 @@ const gaurav = {
 
 ---
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GAURAV-B0RA/GAURAV-B0RA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GAURAV-B0RA/GAURAV-B0RA/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/GAURAV-B0RA/GAURAV-B0RA/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+<br/>
 <div align="center">
 
 ### 🌐 Let's Connect
@@ -98,12 +100,6 @@ const gaurav = {
 <a href="mailto:Gauravbora.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=GAURAV-B0RA&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=100&section=footer"/>
 
