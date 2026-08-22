@@ -1,76 +1,109 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Gaurav Bora</h1>
- <p align="center"><br/>
-   <a target ="_blank" href="http://www.linkedin.com/in/gaurav-bora-71ba87246">
-    <img src="https://img.shields.io/badge/linkedin-Gaurav Bora-blue">
-  </a>
-  
-  <a target ="_blank" href="https://www.instagram.com/gaurav._.bora_?igsh=MW0yZnZwZzBod2V6OQ==">
-    <img src="https://img.shields.io/badge/instagram-gaurav._.bora_-red">
-  </a>
-</p>
+<div align="center">
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align="center">Bachelor in Computer Application, (Graduated in 2025)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=GAURAV-B0RA alt=GAURAV-B0RA/></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=220&section=header&text=Hey,%20I'm%20Gaurav%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20|%20Building%20things%20that%20don't%20break%20(mostly)&descAlignY=58&descSize=18"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22Gaurav+Bora%22%3B;typeof+dev+%3D%3D%3D+%22MERN+Stack+Developer%22%3B;console.log(%22Turning+coffee+into+code+%E2%98%95%22)%3B;while(true)+%7B+keepLearning()%3B+%7D" alt="Typing SVG" />
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</div>
 
+<br/>
 
-- 🌱 I’m currently learning ... **MERN Stack**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **Gauravbora.dev@gmail.com**
-<h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
-</p>
+<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/d3.png" alt=d3js width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png" alt=sass width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/php.png" alt=php width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/yarn.png" alt=yarn width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png" alt=django width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/heroku.png" alt=heroku width="60" height="60"/>
- 
-</p>
+### 🚀 About Me
 
-<h4>Desktop Environment: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/atom.png" alt=atom width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
-</p>
+```js
+const gaurav = {
+  role: "Full Stack Developer",
+  stack: "MERN (MongoDB, Express, React, Node.js)",
+  education: "BCA Graduate, 2025",
+  location: "India 🇮🇳",
+  currentlyLearning: ["Advanced React Patterns", "System Design"],
+  status: "Open to internship opportunities 🎯",
+  funFact: "Powered by anime & side quests ⚡",
+};
+```
 
-<p align="center">
-<a href=https://twitter.com/@Gauravb04 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="gauravbora" height="40" width="40" /></a>
-<a href=http://www.linkedin.com/in/gaurav-bora-71ba87246 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Gauravbora" height="40" width="40" /></a>
-<a href=https://instagram.com/gaurav._.bora_ target="blank"> <img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="Gauravbora" height="40" width="40" /></a>
-</p>
+- 🌱 **Currently leveling up in:** MERN Stack & building real-world projects
+- 💼 **Open for:** Internship opportunities
+- 💬 **Ask me about:** Web Development, React, Node.js
+- ⚡ **Fun fact:** Certified anime enjoyer
+- 📫 **Reach me:** gauravbora.dev@gmail.com
 
-⭐️ From [Gaurav Bora](https://github.com/GAURAV-B0RA) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+</div>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,py,js" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,redux" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,django,php" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,heroku,linux,ubuntu,windows,slack" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GAURAV-B0RA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV-B0RA&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GAURAV-B0RA&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAURAV-B0RA&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Let's Connect
+
+<a href="http://www.linkedin.com/in/gaurav-bora-71ba87246" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/gaurav._.bora_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/Gauravb04" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:Gauravbora.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=GAURAV-B0RA&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:6366f1&height=100&section=footer"/>
+
+<div align="center">
+
+*⭐ Thanks for stopping by — go build something cool.*
+
+</div>
